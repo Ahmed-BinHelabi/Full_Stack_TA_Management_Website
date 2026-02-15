@@ -51,15 +51,9 @@ Flow:
 User → Web Interface → PHP Backend → MySQL Database → Response to User
 
 🗂️ Project Structure
-full_stack_ta_management_website/
-├── assets/              # Images and static files
-├── css/                 # Stylesheets
-├── js/                  # JavaScript files
-├── includes/            # Reusable PHP components
-├── config.php           # Database configuration
-├── index.php            # Login page
-├── dashboard.php        # Role-based dashboards
-└── database.sql         # Database schema
+
+<pre> ```bash full_stack_ta_management_website/ ├── assets/ # Images and static files ├── css/ # Stylesheets ├── js/ # JavaScript files ├── includes/ # Reusable PHP components ├── config.php # Database configuration ├── index.php # Login page ├── dashboard.php # Role-based dashboards └── database.sql # Database schema ``` </pre>
+
 
 🛠️ Technologies Used
 
