@@ -71,7 +71,7 @@ User → Web Interface → PHP Backend → MySQL Database → Response Rendering
 ## 🗂️ Project Structure
 
 ```bash
-full_stack_ta_management_website/
+Full_Stack_TA_Management_Website/
 ├── assets/              # Images and static files
 ├── css/                 # Stylesheets
 ├── js/                  # JavaScript logic
@@ -100,8 +100,8 @@ full_stack_ta_management_website/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Ahmed-BinHelabi/full_stack_ta_management_website.git
-cd full_stack_ta_management_website
+git clone https://github.com/Ahmed-BinHelabi/Full_Stack_TA_Management_Website.git
+cd Full_Stack_TA_Management_Website
 ```
 
 ### 2️⃣ Backend Setup
@@ -124,7 +124,7 @@ $database = "ta_management";
 Start Apache & MySQL, then open:
 
 ```
-http://localhost/full_stack_ta_management_website/
+http://localhost/Full_Stack_TA_Management_Website/
 ```
 
 ---
