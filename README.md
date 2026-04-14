@@ -1,4 +1,4 @@
-# 🎓 TA Management System  
+# TA Management System  
 ### Streamlining University Teaching Assistant Operations
 
 A modern full-stack web platform that centralizes Teaching Assistant (TA) assignment, tracking, and performance monitoring in one secure system.
@@ -6,8 +6,14 @@ A modern full-stack web platform that centralizes Teaching Assistant (TA) assign
 Built to replace inefficient spreadsheets and manual coordination with a structured, role-based solution.
 
 ---
+## Demo
 
-## 🚀 Why This Project?
+Watch the demo here:  
+[Click to view the demo](https://drive.google.com/file/d/17bITf8onCUGt7ElE4dPyIg_tiLo0cvsT/view?usp=sharinghttps://drive.google.com/file/d/17bITf8onCUGt7ElE4dPyIg_tiLo0cvsT/view?usp=sharing)
+
+---
+
+## Why This Project?
 
 University courses often manage TAs manually, leading to:
 
@@ -20,13 +26,13 @@ This platform solves those issues through a secure, database-driven web system.
 
 ---
 
-## ✨ Core Features
+## Core Features
 
-### 🔐 Secure Authentication
+### Secure Authentication
 - Login system with session management  
 - Role-based access control  
 
-### 👥 Role-Based Dashboards
+### Role-Based Dashboards
 Separate dashboards for:
 - Manager  
 - Instructor  
@@ -34,25 +40,25 @@ Separate dashboards for:
 
 Each role sees only relevant data and actions.
 
-### 📋 Smart Task Management
+### Smart Task Management
 - Assign tasks to TAs  
 - Update task status  
 - Track completion progress  
 
-### ⏱️ Working Hours Tracking
+### Working Hours Tracking
 - Log TA hours  
 - Monitor workload distribution  
 
-### 📊 Performance Monitoring
+### Performance Monitoring
 - Track activity and engagement  
 - Evaluate task completion rates  
 
-### 📱 Responsive UI
+### Responsive UI
 Optimized for both desktop and mobile use.
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 **Frontend**  
 HTML5 · CSS3 · JavaScript  
@@ -68,7 +74,7 @@ User → Web Interface → PHP Backend → MySQL Database → Response Rendering
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```bash
 Full_Stack_TA_Management_Website/
@@ -84,7 +90,7 @@ Full_Stack_TA_Management_Website/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer       | Technology |
 |------------|------------|
@@ -95,7 +101,7 @@ Full_Stack_TA_Management_Website/
 
 ---
 
-## ⚙️ Local Setup
+## Local Setup
 
 ### 1️⃣ Clone Repository
 
@@ -129,7 +135,7 @@ http://localhost/Full_Stack_TA_Management_Website/
 
 ---
 
-## 🔒 Security Highlights
+## Security Highlights
 
 - Session-based authentication  
 - Role-restricted routes  
@@ -137,7 +143,7 @@ http://localhost/Full_Stack_TA_Management_Website/
 
 ---
 
-## 📈 Future Roadmap
+## Future Roadmap
 
 - REST API implementation  
 - Email notifications for task updates  
@@ -147,7 +153,7 @@ http://localhost/Full_Stack_TA_Management_Website/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Ahmed Bin Halabi  
 Software Engineering Student — Alfaisal University   
